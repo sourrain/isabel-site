@@ -74,7 +74,7 @@ a:hover {
 
 .wrapper {
     padding: 20px;
-    width: 100%;
+    width: 150%;
     height: 400%;
     position: absolute;
     background: linear-gradient(45deg, #ffffff, #2724db8f, #ffdc185e, #ff068342);
